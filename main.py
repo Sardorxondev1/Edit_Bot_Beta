@@ -9,7 +9,7 @@ import time
 
 # 5052917948:AAFPg3FIPWllF8Kz0X5Bl5XRzRFOP6WUQmM Test
 # 5205648942:AAHYxUFII69pZMZ78sU4EBX7uwTVj5_HfMg Main
-bot = telebot.TeleBot('5052917948:AAFPg3FIPWllF8Kz0X5Bl5XRzRFOP6WUQmM')
+bot = telebot.TeleBot('5168841978:AAGPbns3NLLb1Staj2C9FiM_N8QaNx826Q4')
 channels = []
 try:
     users, edits, mails, sinonims = metod.load_all(bot)
